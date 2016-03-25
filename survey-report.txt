@@ -1,0 +1,805 @@
+============= SURVEYS ================
+
+======================================
+PPS No: 14661
+Name: hedi jeth
+Address: 35 Slender Meadow
+Email: hedi.jeth@hotmail.com
+Gender: Male
+Age Bracket: 18 - 20 years old
+Income Bracket: More than €100,000
+Exercise Amount: Never
+Alcohol consumption: Less than 4 units
+Cigarettes per week: Less than 40
+
+======================================
+PPS No: 17894
+Name: hoyt mogridge
+Address: 78 Slender Mansion
+Email: hoyt.mogridge@ymail.com
+Gender: Female
+Age Bracket: 50 - 65 years old
+Income Bracket: Less than €40,000
+Exercise Amount: Less than five times per week
+Alcohol consumption: Less than 2 units
+Cigarettes per week: None
+
+======================================
+PPS No: 18105
+Name: janek bolon
+Address: 41 Haunted Grove
+Email: janek.bolon@gmail.com
+Gender: Female
+Age Bracket: 30 - 50 years old
+Income Bracket: More than €100,000
+Exercise Amount: Less than five times per week
+Alcohol consumption: None
+Cigarettes per week: Less than 40
+
+======================================
+PPS No: 79639
+Name: johnsen elspeth
+Address: 51 Rockgate Hill
+Email: johnsen.elspeth@hotmail.com
+Gender: Female
+Age Bracket: 50 - 65 years old
+Income Bracket: More than €100,000
+Exercise Amount: More than five times per week
+Alcohol consumption: Less than 4 units
+Cigarettes per week: Less than 20
+
+======================================
+PPS No: 107078
+Name: myre greer
+Address: 15 Slender Grove
+Email: myre.greer@gmail.com
+Gender: Male
+Age Bracket: 30 - 50 years old
+Income Bracket: Less than €80,000
+Exercise Amount: Less than five times per week
+Alcohol consumption: Less than 2 units
+Cigarettes per week: Less than 20
+
+======================================
+PPS No: 119506
+Name: boase scholey
+Address: 44 Slender Drive
+Email: boase.scholey@ymail.com
+Gender: Female
+Age Bracket: 20 - 30 years old
+Income Bracket: Less than €60,000
+Exercise Amount: Less than three times per week
+Alcohol consumption: Less than 4 units
+Cigarettes per week: Less than 40
+
+======================================
+PPS No: 130909
+Name: jonelle kolek
+Address: 31 Scared Hill
+Email: jonelle.kolek@gmail.com
+Gender: Female
+Age Bracket: 65+ years old
+Income Bracket: Less than €20,000
+Exercise Amount: Less than five times per week
+Alcohol consumption: Less than 4 units
+Cigarettes per week: Less than 40
+
+======================================
+PPS No: 135239
+Name: pirkey bakhach
+Address: 97 Pinewood Hill
+Email: pirkey.bakhach@hotmail.com
+Gender: Male
+Age Bracket: 20 - 30 years old
+Income Bracket: Less than €80,000
+Exercise Amount: Less than five times per week
+Alcohol consumption: More than 4 units
+Cigarettes per week: More than 40
+
+======================================
+PPS No: 140837
+Name: newcomb du-berge
+Address: 31 Pinewood Grove
+Email: newcomb.du-berge@gmail.com
+Gender: Female
+Age Bracket: 30 - 50 years old
+Income Bracket: Less than €80,000
+Exercise Amount: Less than three times per week
+Alcohol consumption: Less than 4 units
+Cigarettes per week: Less than 40
+
+======================================
+PPS No: 208606
+Name: terresa haverkam
+Address: 35 Creeping Drive
+Email: terresa.haverkam@gmail.com
+Gender: Female
+Age Bracket: 18 - 20 years old
+Income Bracket: Less than €40,000
+Exercise Amount: More than five times per week
+Alcohol consumption: Less than 4 units
+Cigarettes per week: None
+
+======================================
+PPS No: 249081
+Name: goyer garee
+Address: 58 Haunted Drive
+Email: goyer.garee@ymail.com
+Gender: Male
+Age Bracket: 65+ years old
+Income Bracket: More than €100,000
+Exercise Amount: Less than three times per week
+Alcohol consumption: Less than 2 units
+Cigarettes per week: Less than 40
+
+======================================
+PPS No: 263143
+Name: kimberle corilla
+Address: 11 Sacred Hill
+Email: kimberle.corilla@hotmail.com
+Gender: Male
+Age Bracket: 65+ years old
+Income Bracket: Less than €80,000
+Exercise Amount: Never
+Alcohol consumption: Less than 2 units
+Cigarettes per week: None
+
+======================================
+PPS No: 266463
+Name: kolbe maudy
+Address: 21 Scared Mansion
+Email: kolbe.maudy@hotmail.com
+Gender: Male
+Age Bracket: 65+ years old
+Income Bracket: Less than €60,000
+Exercise Amount: Less than three times per week
+Alcohol consumption: More than 4 units
+Cigarettes per week: Less than 40
+
+======================================
+PPS No: 278868
+Name: albie selma
+Address: 86 Slender Grove
+Email: albie.selma@hotmail.com
+Gender: Female
+Age Bracket: 18 - 20 years old
+Income Bracket: Less than €60,000
+Exercise Amount: Never
+Alcohol consumption: More than 4 units
+Cigarettes per week: Less than 20
+
+======================================
+PPS No: 295469
+Name: hampton tianbao
+Address: 22 Rockgate Drive
+Email: hampton.tianbao@ymail.com
+Gender: Female
+Age Bracket: 65+ years old
+Income Bracket: No income
+Exercise Amount: Less than five times per week
+Alcohol consumption: Less than 2 units
+Cigarettes per week: None
+
+======================================
+PPS No: 299425
+Name: hi lancelot
+Address: 77 Scared Grove
+Email: hi.lancelot@hotmail.com
+Gender: Female
+Age Bracket: 50 - 65 years old
+Income Bracket: No income
+Exercise Amount: More than five times per week
+Alcohol consumption: Less than 4 units
+Cigarettes per week: None
+
+======================================
+PPS No: 325842
+Name: zukas takahisa
+Address: 31 Sacred Grove
+Email: zukas.takahisa@gmail.com
+Gender: Female
+Age Bracket: 18 - 20 years old
+Income Bracket: More than €100,000
+Exercise Amount: More than five times per week
+Alcohol consumption: Less than 2 units
+Cigarettes per week: Less than 20
+
+======================================
+PPS No: 326472
+Name: utas mordy
+Address: 30 Pinewood Mansion
+Email: utas.mordy@hotmail.com
+Gender: Female
+Age Bracket: 18 - 20 years old
+Income Bracket: Less than €80,000
+Exercise Amount: More than five times per week
+Alcohol consumption: More than 4 units
+Cigarettes per week: More than 40
+
+======================================
+PPS No: 329494
+Name: merissa scholey
+Address: 42 Rockgate Hill
+Email: merissa.scholey@gmail.com
+Gender: Female
+Age Bracket: 50 - 65 years old
+Income Bracket: Less than €20,000
+Exercise Amount: Never
+Alcohol consumption: Less than 4 units
+Cigarettes per week: Less than 40
+
+======================================
+PPS No: 348310
+Name: goyette boorse
+Address: 56 Rockgate Grove
+Email: goyette.boorse@ymail.com
+Gender: Male
+Age Bracket: 30 - 50 years old
+Income Bracket: Less than €40,000
+Exercise Amount: Less than three times per week
+Alcohol consumption: Less than 2 units
+Cigarettes per week: Less than 40
+
+======================================
+PPS No: 351037
+Name: harte guertin
+Address: 28 Slender Meadow
+Email: harte.guertin@ymail.com
+Gender: Female
+Age Bracket: 50 - 65 years old
+Income Bracket: Less than €100,000
+Exercise Amount: Less than three times per week
+Alcohol consumption: None
+Cigarettes per week: More than 40
+
+======================================
+PPS No: 398478
+Name: thevenar neufeld
+Address: 85 Scared Hill
+Email: thevenar.neufeld@gmail.com
+Gender: Male
+Age Bracket: 30 - 50 years old
+Income Bracket: More than €100,000
+Exercise Amount: Less than five times per week
+Alcohol consumption: None
+Cigarettes per week: Less than 40
+
+======================================
+PPS No: 409639
+Name: bakay wesolows
+Address: 49 Slender Grove
+Email: bakay.wesolows@ymail.com
+Gender: Female
+Age Bracket: 30 - 50 years old
+Income Bracket: Less than €100,000
+Exercise Amount: Less than five times per week
+Alcohol consumption: None
+Cigarettes per week: More than 40
+
+======================================
+PPS No: 410946
+Name: rheaume narayana
+Address: 44 Wood Meadow
+Email: rheaume.narayana@ymail.com
+Gender: Male
+Age Bracket: 20 - 30 years old
+Income Bracket: Less than €40,000
+Exercise Amount: Less than three times per week
+Alcohol consumption: Less than 2 units
+Cigarettes per week: None
+
+======================================
+PPS No: 429579
+Name: heath diec
+Address: 66 Pinewood Mansion
+Email: heath.diec@gmail.com
+Gender: Male
+Age Bracket: 20 - 30 years old
+Income Bracket: More than €100,000
+Exercise Amount: Less than three times per week
+Alcohol consumption: Less than 2 units
+Cigarettes per week: Less than 20
+
+======================================
+PPS No: 480748
+Name: palermo dallago
+Address: 54 Scared Drive
+Email: palermo.dallago@gmail.com
+Gender: Male
+Age Bracket: 20 - 30 years old
+Income Bracket: Less than €20,000
+Exercise Amount: Less than five times per week
+Alcohol consumption: None
+Cigarettes per week: Less than 20
+
+======================================
+PPS No: 496431
+Name: lewie zoe
+Address: 51 Slender Drive
+Email: lewie.zoe@hotmail.com
+Gender: Male
+Age Bracket: 50 - 65 years old
+Income Bracket: Less than €60,000
+Exercise Amount: Less than three times per week
+Alcohol consumption: Less than 2 units
+Cigarettes per week: More than 40
+
+======================================
+PPS No: 507340
+Name: daisey ursula
+Address: 7 Pinewood Mansion
+Email: daisey.ursula@ymail.com
+Gender: Female
+Age Bracket: 18 - 20 years old
+Income Bracket: Less than €80,000
+Exercise Amount: Less than five times per week
+Alcohol consumption: More than 4 units
+Cigarettes per week: More than 40
+
+======================================
+PPS No: 560151
+Name: coloads anderson
+Address: 53 Sacred Grove
+Email: coloads.anderson@hotmail.com
+Gender: Female
+Age Bracket: 50 - 65 years old
+Income Bracket: Less than €100,000
+Exercise Amount: More than five times per week
+Alcohol consumption: Less than 2 units
+Cigarettes per week: Less than 20
+
+======================================
+PPS No: 582294
+Name: barcza brena
+Address: 88 Sacred Drive
+Email: barcza.brena@hotmail.com
+Gender: Male
+Age Bracket: 18 - 20 years old
+Income Bracket: Less than €60,000
+Exercise Amount: Never
+Alcohol consumption: More than 4 units
+Cigarettes per week: Less than 20
+
+======================================
+PPS No: 656076
+Name: mortie ahdieh
+Address: 86 Haunted Hill
+Email: mortie.ahdieh@gmail.com
+Gender: Male
+Age Bracket: 50 - 65 years old
+Income Bracket: Less than €100,000
+Exercise Amount: Less than five times per week
+Alcohol consumption: Less than 2 units
+Cigarettes per week: Less than 40
+
+======================================
+PPS No: 670441
+Name: gonzaga bogert
+Address: 43 Creeping Meadow
+Email: gonzaga.bogert@hotmail.com
+Gender: Male
+Age Bracket: 50 - 65 years old
+Income Bracket: Less than €40,000
+Exercise Amount: More than five times per week
+Alcohol consumption: None
+Cigarettes per week: None
+
+======================================
+PPS No: 670844
+Name: benthem porty
+Address: 11 Wood Meadow
+Email: benthem.porty@hotmail.com
+Gender: Male
+Age Bracket: 65+ years old
+Income Bracket: Less than €20,000
+Exercise Amount: More than five times per week
+Alcohol consumption: Less than 2 units
+Cigarettes per week: Less than 40
+
+======================================
+PPS No: 715297
+Name: leffler impaglia
+Address: 35 Scared Meadow
+Email: leffler.impaglia@hotmail.com
+Gender: Male
+Age Bracket: 50 - 65 years old
+Income Bracket: Less than €20,000
+Exercise Amount: Less than five times per week
+Alcohol consumption: Less than 4 units
+Cigarettes per week: Less than 20
+
+======================================
+PPS No: 719159
+Name: merilee seiden
+Address: 80 Scared Drive
+Email: merilee.seiden@ymail.com
+Gender: Female
+Age Bracket: 50 - 65 years old
+Income Bracket: Less than €40,000
+Exercise Amount: Less than three times per week
+Alcohol consumption: More than 4 units
+Cigarettes per week: Less than 40
+
+======================================
+PPS No: 730680
+Name: gaiotti gahir
+Address: 30 Haunted Hill
+Email: gaiotti.gahir@ymail.com
+Gender: Female
+Age Bracket: 20 - 30 years old
+Income Bracket: Less than €80,000
+Exercise Amount: More than five times per week
+Alcohol consumption: None
+Cigarettes per week: None
+
+======================================
+PPS No: 750409
+Name: arin pardip
+Address: 88 Scared Hill
+Email: arin.pardip@gmail.com
+Gender: Male
+Age Bracket: 30 - 50 years old
+Income Bracket: Less than €80,000
+Exercise Amount: Never
+Alcohol consumption: More than 4 units
+Cigarettes per week: Less than 20
+
+======================================
+PPS No: 754578
+Name: perreaul tjia
+Address: 35 Slender Hill
+Email: perreaul.tjia@ymail.com
+Gender: Female
+Age Bracket: 20 - 30 years old
+Income Bracket: Less than €60,000
+Exercise Amount: Never
+Alcohol consumption: Less than 4 units
+Cigarettes per week: Less than 20
+
+======================================
+PPS No: 786605
+Name: dayle anett
+Address: 80 Sacred Mansion
+Email: dayle.anett@gmail.com
+Gender: Female
+Age Bracket: 30 - 50 years old
+Income Bracket: Less than €40,000
+Exercise Amount: Never
+Alcohol consumption: Less than 4 units
+Cigarettes per week: Less than 40
+
+======================================
+PPS No: 798546
+Name: brandea gope
+Address: 86 Haunted Mansion
+Email: brandea.gope@gmail.com
+Gender: Female
+Age Bracket: 50 - 65 years old
+Income Bracket: Less than €80,000
+Exercise Amount: More than five times per week
+Alcohol consumption: None
+Cigarettes per week: None
+
+======================================
+PPS No: 803455
+Name: hildebra selig
+Address: 19 Haunted Meadow
+Email: hildebra.selig@ymail.com
+Gender: Male
+Age Bracket: 30 - 50 years old
+Income Bracket: Less than €80,000
+Exercise Amount: Never
+Alcohol consumption: Less than 4 units
+Cigarettes per week: Less than 40
+
+======================================
+PPS No: 826354
+Name: lasserre rebel
+Address: 59 Sacred Mansion
+Email: lasserre.rebel@gmail.com
+Gender: Female
+Age Bracket: 30 - 50 years old
+Income Bracket: Less than €40,000
+Exercise Amount: Never
+Alcohol consumption: More than 4 units
+Cigarettes per week: None
+
+======================================
+PPS No: 847074
+Name: toles suomela
+Address: 74 Haunted Drive
+Email: toles.suomela@hotmail.com
+Gender: Female
+Age Bracket: 65+ years old
+Income Bracket: Less than €40,000
+Exercise Amount: Never
+Alcohol consumption: None
+Cigarettes per week: None
+
+======================================
+PPS No: 885410
+Name: karon denery
+Address: 28 Rockgate Drive
+Email: karon.denery@gmail.com
+Gender: Female
+Age Bracket: 50 - 65 years old
+Income Bracket: More than €100,000
+Exercise Amount: Less than five times per week
+Alcohol consumption: More than 4 units
+Cigarettes per week: Less than 20
+
+======================================
+PPS No: 894794
+Name: pcboards wissinge
+Address: 61 Slender Grove
+Email: pcboards.wissinge@ymail.com
+Gender: Female
+Age Bracket: 65+ years old
+Income Bracket: Less than €20,000
+Exercise Amount: More than five times per week
+Alcohol consumption: Less than 4 units
+Cigarettes per week: None
+
+======================================
+PPS No: 895570
+Name: jan almira
+Address: 48 Wood Meadow
+Email: jan.almira@hotmail.com
+Gender: Female
+Age Bracket: 20 - 30 years old
+Income Bracket: More than €100,000
+Exercise Amount: Less than three times per week
+Alcohol consumption: None
+Cigarettes per week: None
+
+======================================
+PPS No: 899555
+Name: dickerma noye
+Address: 87 Scared Hill
+Email: dickerma.noye@gmail.com
+Gender: Female
+Age Bracket: 50 - 65 years old
+Income Bracket: No income
+Exercise Amount: Less than five times per week
+Alcohol consumption: Less than 2 units
+Cigarettes per week: None
+
+======================================
+PPS No: 909760
+Name: gwynith williams
+Address: 67 Wood Hill
+Email: gwynith.williams@ymail.com
+Gender: Male
+Age Bracket: 18 - 20 years old
+Income Bracket: No income
+Exercise Amount: More than five times per week
+Alcohol consumption: Less than 2 units
+Cigarettes per week: None
+
+======================================
+PPS No: 983199
+Name: probert kemppain
+Address: 28 Haunted Meadow
+Email: probert.kemppain@hotmail.com
+Gender: Male
+Age Bracket: 30 - 50 years old
+Income Bracket: Less than €100,000
+Exercise Amount: Less than three times per week
+Alcohol consumption: Less than 4 units
+Cigarettes per week: More than 40
+
+======================================
+PPS No: 995824
+Name: ema junk
+Address: 59 Sacred Meadow
+Email: ema.junk@hotmail.com
+Gender: Male
+Age Bracket: 30 - 50 years old
+Income Bracket: More than €100,000
+Exercise Amount: More than five times per week
+Alcohol consumption: Less than 4 units
+Cigarettes per week: More than 40
+
+============= STATISTICS ================
+
+=============== Age Bracket: 18 - 20 ===============
+People Who Smoke: 75.00%
+People Who Smoke: 75.00%
+People Who Smoke Less Than 20 A Day: 62.00%
+People Who Smoke Less Than 40 A Day: 75.00%
+People Who Smoke More Than 40 A Day: 25.00%
+People Who Never Exercise: 37.00%
+People Who Exercise Less Than Three Times Per Week: 37.00%
+People Who Exercise Less Than Five Times Per Week: 50.00%
+People Who Exercise More Than Five Times Per Week: 50.00%
+People Who Do Not Consume Alcohol: 0.00%
+People Who Consume Less Than 2 Units: 25.00%
+People Who Consume Less Than 4 Units: 50.00%
+People Who Consume More Than 4 Units: 50.00%
+
+=============== Age Bracket: 20 - 30 ===============
+People Who Smoke: 62.00%
+People Who Smoke: 62.00%
+People Who Smoke Less Than 20 A Day: 75.00%
+People Who Smoke Less Than 40 A Day: 87.00%
+People Who Smoke More Than 40 A Day: 12.00%
+People Who Never Exercise: 12.00%
+People Who Exercise Less Than Three Times Per Week: 62.00%
+People Who Exercise Less Than Five Times Per Week: 87.00%
+People Who Exercise More Than Five Times Per Week: 12.00%
+People Who Do Not Consume Alcohol: 37.00%
+People Who Consume Less Than 2 Units: 62.00%
+People Who Consume Less Than 4 Units: 87.00%
+People Who Consume More Than 4 Units: 12.00%
+
+=============== Age Bracket: 30 - 50 ===============
+People Who Smoke: 91.00%
+People Who Smoke: 91.00%
+People Who Smoke Less Than 20 A Day: 25.00%
+People Who Smoke Less Than 40 A Day: 75.00%
+People Who Smoke More Than 40 A Day: 25.00%
+People Who Never Exercise: 33.00%
+People Who Exercise Less Than Three Times Per Week: 58.00%
+People Who Exercise Less Than Five Times Per Week: 91.00%
+People Who Exercise More Than Five Times Per Week: 8.00%
+People Who Do Not Consume Alcohol: 25.00%
+People Who Consume Less Than 2 Units: 41.00%
+People Who Consume Less Than 4 Units: 83.00%
+People Who Consume More Than 4 Units: 16.00%
+
+=============== Age Bracket: 50 - 65 ===============
+People Who Smoke: 64.00%
+People Who Smoke: 64.00%
+People Who Smoke Less Than 20 A Day: 64.00%
+People Who Smoke Less Than 40 A Day: 85.00%
+People Who Smoke More Than 40 A Day: 14.00%
+People Who Never Exercise: 7.00%
+People Who Exercise Less Than Three Times Per Week: 28.00%
+People Who Exercise Less Than Five Times Per Week: 64.00%
+People Who Exercise More Than Five Times Per Week: 35.00%
+People Who Do Not Consume Alcohol: 21.00%
+People Who Consume Less Than 2 Units: 57.00%
+People Who Consume Less Than 4 Units: 85.00%
+People Who Consume More Than 4 Units: 14.00%
+
+=============== Age Bracket: 65 +  ===============
+People Who Smoke: 50.00%
+People Who Smoke: 50.00%
+People Who Smoke Less Than 20 A Day: 50.00%
+People Who Smoke Less Than 40 A Day: 100.00%
+People Who Smoke More Than 40 A Day: 0.00%
+People Who Never Exercise: 25.00%
+People Who Exercise Less Than Three Times Per Week: 50.00%
+People Who Exercise Less Than Five Times Per Week: 75.00%
+People Who Exercise More Than Five Times Per Week: 25.00%
+People Who Do Not Consume Alcohol: 12.00%
+People Who Consume Less Than 2 Units: 62.00%
+People Who Consume Less Than 4 Units: 87.00%
+People Who Consume More Than 4 Units: 12.00%
+
+=============== Income Bracket: No Income ===============
+People Who Smoke: 0.00%
+People Who Smoke Less Than 20 A Day: 100.00%
+People Who Smoke Less Than 40 A Day: 100.00%
+People Who Smoke More Than 40 A Day: 0.00%
+People Who Never Exercise: 0.00%
+People Who Exercise Less Than Three Times Per Week: 0.00%
+People Who Exercise Less Than Five Times Per Week: 50.00%
+People Who Exercise More Than Five Times Per Week: 50.00%
+People Who Do Not Consume Alcohol: 0.00%
+People Who Consume Less Than 2 Units: 75.00%
+People Who Consume Less Than 4 Units: 100.00%
+People Who Consume More Than 4 Units: 0.00%
+
+=============== Income Bracket: Less Than €20,000 ===============
+People Who Smoke: 83.00%
+People Who Smoke Less Than 20 A Day: 50.00%
+People Who Smoke Less Than 40 A Day: 100.00%
+People Who Smoke More Than 40 A Day: 0.00%
+People Who Never Exercise: 16.00%
+People Who Exercise Less Than Three Times Per Week: 16.00%
+People Who Exercise Less Than Five Times Per Week: 66.00%
+People Who Exercise More Than Five Times Per Week: 33.00%
+People Who Do Not Consume Alcohol: 16.00%
+People Who Consume Less Than 2 Units: 33.00%
+People Who Consume Less Than 4 Units: 100.00%
+People Who Consume More Than 4 Units: 0.00%
+
+=============== Income Bracket: Less Than €40,000 ===============
+People Who Smoke: 33.00%
+People Who Smoke Less Than 20 A Day: 66.00%
+People Who Smoke Less Than 40 A Day: 100.00%
+People Who Smoke More Than 40 A Day: 0.00%
+People Who Never Exercise: 33.00%
+People Who Exercise Less Than Three Times Per Week: 66.00%
+People Who Exercise Less Than Five Times Per Week: 77.00%
+People Who Exercise More Than Five Times Per Week: 22.00%
+People Who Do Not Consume Alcohol: 22.00%
+People Who Consume Less Than 2 Units: 55.00%
+People Who Consume Less Than 4 Units: 77.00%
+People Who Consume More Than 4 Units: 22.00%
+
+=============== Income Bracket: Less Than €60,000 ===============
+People Who Smoke: 100.00%
+People Who Smoke Less Than 20 A Day: 50.00%
+People Who Smoke Less Than 40 A Day: 83.00%
+People Who Smoke More Than 40 A Day: 16.00%
+People Who Never Exercise: 50.00%
+People Who Exercise Less Than Three Times Per Week: 100.00%
+People Who Exercise Less Than Five Times Per Week: 100.00%
+People Who Exercise More Than Five Times Per Week: 0.00%
+People Who Do Not Consume Alcohol: 0.00%
+People Who Consume Less Than 2 Units: 16.00%
+People Who Consume Less Than 4 Units: 50.00%
+People Who Consume More Than 4 Units: 50.00%
+
+=============== Income Bracket: Less Than €80,000 ===============
+People Who Smoke: 70.00%
+People Who Smoke Less Than 20 A Day: 50.00%
+People Who Smoke Less Than 40 A Day: 70.00%
+People Who Smoke More Than 40 A Day: 30.00%
+People Who Never Exercise: 30.00%
+People Who Exercise Less Than Three Times Per Week: 40.00%
+People Who Exercise Less Than Five Times Per Week: 70.00%
+People Who Exercise More Than Five Times Per Week: 30.00%
+People Who Do Not Consume Alcohol: 20.00%
+People Who Consume Less Than 2 Units: 40.00%
+People Who Consume Less Than 4 Units: 60.00%
+People Who Consume More Than 4 Units: 40.00%
+
+=============== Income Bracket: Less Than €100,000 ===============
+People Who Smoke: 100.00%
+People Who Smoke Less Than 20 A Day: 20.00%
+People Who Smoke Less Than 40 A Day: 40.00%
+People Who Smoke More Than 40 A Day: 60.00%
+People Who Never Exercise: 0.00%
+People Who Exercise Less Than Three Times Per Week: 40.00%
+People Who Exercise Less Than Five Times Per Week: 80.00%
+People Who Exercise More Than Five Times Per Week: 20.00%
+People Who Do Not Consume Alcohol: 40.00%
+People Who Consume Less Than 2 Units: 80.00%
+People Who Consume Less Than 4 Units: 100.00%
+People Who Consume More Than 4 Units: 0.00%
+
+=============== Income Bracket: More Than €100,000 ===============
+People Who Smoke: 90.00%
+People Who Smoke Less Than 20 A Day: 50.00%
+People Who Smoke Less Than 40 A Day: 90.00%
+People Who Smoke More Than 40 A Day: 10.00%
+People Who Never Exercise: 10.00%
+People Who Exercise Less Than Three Times Per Week: 40.00%
+People Who Exercise Less Than Five Times Per Week: 70.00%
+People Who Exercise More Than Five Times Per Week: 30.00%
+People Who Do Not Consume Alcohol: 30.00%
+People Who Consume Less Than 2 Units: 60.00%
+People Who Consume Less Than 4 Units: 90.00%
+People Who Consume More Than 4 Units: 10.00%
+
+=============== Gender: Male ===============
+People Who Smoke: 81.00%
+People Who Smoke Less Than 20 A Day: 45.00%
+People Who Smoke Less Than 40 A Day: 81.00%
+People Who Smoke More Than 40 A Day: 18.00%
+People Who Never Exercise: 22.00%
+People Who Exercise Less Than Three Times Per Week: 54.00%
+People Who Exercise Less Than Five Times Per Week: 81.00%
+People Who Exercise More Than Five Times Per Week: 18.00%
+People Who Do Not Consume Alcohol: 13.00%
+People Who Consume Less Than 2 Units: 59.00%
+People Who Consume Less Than 4 Units: 81.00%
+People Who Consume More Than 4 Units: 18.00%
+
+=============== Gender: Female ===============
+People Who Smoke: 60.00%
+People Who Smoke Less Than 20 A Day: 60.00%
+People Who Smoke Less Than 40 A Day: 85.00%
+People Who Smoke More Than 40 A Day: 14.00%
+People Who Never Exercise: 21.00%
+People Who Exercise Less Than Three Times Per Week: 39.00%
+People Who Exercise Less Than Five Times Per Week: 67.00%
+People Who Exercise More Than Five Times Per Week: 32.00%
+People Who Do Not Consume Alcohol: 25.00%
+People Who Consume Less Than 2 Units: 42.00%
+People Who Consume Less Than 4 Units: 78.00%
+People Who Consume More Than 4 Units: 21.00%
+

@@ -31,8 +31,7 @@ void main() {
 	getch(); // swallow character
 	printf("\n");
 	if (!user_is_allowed(userName, password)) {
-		printf(
-				"I'm sorry, you're not authorised. - The program will now close.\n");
+		printf("I'm sorry, you're not authorised. The program will now close.\n");
 		exit(0); // quit the program
 	}
 
@@ -87,9 +86,9 @@ void main() {
 
 			file = fopen("survey-report.txt", "w");
 			if (file != NULL) {
-				fprintf(file,"============= SURVEYS ================\n\n");
+				fprintf(file, "============= SURVEYS ================\n\n");
 				print_all_surveys(list, file);
-				fprintf(file,"============= STATISTICS ================\n\n");
+				fprintf(file, "============= STATISTICS ================\n\n");
 				print_stats(list, file);
 				fclose(file);
 				printf("Survey Report Successfully created!\n");
@@ -110,14 +109,13 @@ void main() {
 void update_survey(node* list, int pps) {
 
 	node* curr = list; // head of list
-	int choice;
 	int innerChoice;
 	survey* s;
 
 	while (curr != NULL) {
 		if (curr->data.pps == pps) { // found it
 
-			printf("\nFound %s %s\n\n",curr->data.firstName,curr->data.lastName);
+			printf("\nFound %s %s\n\n", curr->data.firstName, curr->data.lastName);
 
 			s = &curr->data; // survey we're going to change
 			do {
@@ -127,11 +125,12 @@ void update_survey(node* list, int pps) {
 				printf(" 3) Last Name.\n");
 				printf(" 4) Address.\n");
 				printf(" 5) Email.\n");
-				printf(" 6) Age Bracket.\n");
-				printf(" 7) Income Bracket.\n");
-				printf(" 8) Exercise.\n");
-				printf(" 9) Alcohol.\n");
-				printf("10) Cigs Per Week.\n");
+				printf(" 6) Gender\n");
+				printf(" 7) Age Bracket.\n");
+				printf(" 8) Income Bracket.\n");
+				printf(" 9) Exercise.\n");
+				printf("10) Alcohol.\n");
+				printf("11) Cigs Per Week.\n");
 				printf("-1) Done editing.\n");
 
 				scanf("%d", &innerChoice);
@@ -152,18 +151,21 @@ void update_survey(node* list, int pps) {
 					update_email(s);
 					break;
 				case 6:
-					update_age_bracket(s);
+					update_gender(s);
 					break;
 				case 7:
-					update_inc_bracket(s);
+					update_age_bracket(s);
 					break;
 				case 8:
-					update_exercise(s);
+					update_inc_bracket(s);
 					break;
 				case 9:
-					update_alcohol(s);
+					update_exercise(s);
 					break;
 				case 10:
+					update_alcohol(s);
+					break;
+				case 11:
 					update_cigs(s);
 					break;
 				case -1: // done editing
@@ -192,9 +194,9 @@ void save_database(node** list) {
 
 		for (i = 0; i < size; i++) {
 			s = curr->data;
-			fprintf(file, "%d %s %s %s %d %d %d %d %d %s", s.pps, s.firstName,
-					s.lastName, s.email, s.ageBracket, s.incBracket, s.exercise,
-					s.alcohol, s.cigsPerWeek, s.address);
+			fprintf(file, "%d %s %s %s %d %d %d %d %d %d %s", s.pps, s.firstName, s.lastName,
+					s.email, s.gender, s.ageBracket, s.incBracket, s.exercise, s.alcohol,
+					s.cigsPerWeek, s.address);
 
 			if (i < size - 1) { // don't print last newline character
 				fprintf(file, "\n");
@@ -215,9 +217,8 @@ void initList(node** list) {
 	survey s; // survey to be added
 
 	while (!feof(file)) { // until end of file)
-		fscanf(file, "%d %s %s %s %d %d %d %d %d ", &s.pps, s.firstName,
-				s.lastName, s.email, &s.ageBracket, &s.incBracket, &s.exercise,
-				&s.alcohol, &s.cigsPerWeek);
+		fscanf(file, "%d %s %s %s %d %d %d %d %d %d ", &s.pps, s.firstName, s.lastName, s.email,
+				&s.gender, &s.ageBracket, &s.incBracket, &s.exercise, &s.alcohol, &s.cigsPerWeek);
 
 		add = fgets(add, 40, file); // read remainder of file
 		strtok(add, "\n"); // remove new line char from address

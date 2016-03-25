@@ -5,6 +5,7 @@ typedef struct survey {
 	char address[40];
 	char email[40];
 	// answers to questions
+	int gender;
 	int ageBracket;
 	int incBracket;
 	int exercise;
@@ -70,6 +71,16 @@ void print_survey(survey s, FILE* file) {
 	fprintf(file, "Name: %s %s\n", s.firstName, s.lastName);
 	fprintf(file, "Address: %s\n", s.address);
 	fprintf(file, "Email: %s\n", s.email);
+
+	fprintf(file, "Gender: ");
+	switch (s.gender) {
+	case 1:
+		fprintf(file, "Male\n");
+		break;
+	case 2:
+		fprintf(file, "Female\n");
+		break;
+	}
 
 	fprintf(file, "Age Bracket: ");
 	switch (s.ageBracket) {
@@ -160,7 +171,7 @@ void print_survey(survey s, FILE* file) {
 		break;
 	}
 
-	fprintf(file, "Cigarrettes per week: ");
+	fprintf(file, "Cigarettes per week: ");
 	switch (s.cigsPerWeek) {
 	case 1:
 		fprintf(file, "None\n");
@@ -186,6 +197,7 @@ void print_single_survey(node* list, FILE* file) {
 	searchTerm = (char*) malloc(sizeof(char) * 50);
 	char ppsAsString[20];
 	char fullName[50];
+	int found = 0;
 
 	printf("Enter pps or name to search for: ");
 	getch();
@@ -205,12 +217,15 @@ void print_single_survey(node* list, FILE* file) {
 		if (strcmp(ppsAsString, searchTerm) == 0 // if pss is what we're looking for
 		|| strcmp(fullName, searchTerm) == 0) { // if name is what we're looking for
 			print_survey(s, file); // print it
-			return; // done
+			found++;
 		}
 		curr = curr->next;
 	}
 
-	printf("Sorry, that survey doesn't exist!\n");
+	if (found == 0) {
+		printf("Sorry, that survey doesn't exist!\n");
+	}
+
 }
 
 void print_all_surveys(node* list, FILE* file) {
@@ -283,6 +298,15 @@ void update_email(survey* s) {
 	strcpy(s->email, email);
 }
 
+void update_gender(survey* s) {
+	do {
+		printf("Enter gender: \n");
+		printf("1) Male\n");
+		printf("2) Female\n");
+		scanf("%d", &s->gender);
+	} while (s->gender != 2 && s->gender != 1);
+}
+
 void update_age_bracket(survey* s) {
 	// keep prompting until they enter valid email
 	do {
@@ -335,7 +359,7 @@ void update_alcohol(survey* s) {
 
 void update_cigs(survey* s) {
 	do {
-		printf("How may cigarrettes do you smoke per week: \n");
+		printf("How may cigarettes do you smoke per week: \n");
 		printf("1) None\n");
 		printf("2) Less than 20\n");
 		printf("3) Less than 40\n");
@@ -351,6 +375,7 @@ survey create_survey(node* list) {
 	update_last_name(&s);
 	update_address(&s);
 	update_email(&s);
+	update_gender(&s);
 	update_age_bracket(&s);
 	update_inc_bracket(&s);
 	update_exercise(&s);
@@ -371,8 +396,7 @@ void delete_survey(node** list, int pps) {
 				// then we're at the head node
 				*list = curr->next; // head is now the second element
 				free(curr); // free memory
-				printf("Deleted %s %s.\n", curr->data.firstName,
-						curr->data.lastName);
+				printf("Deleted %s %s.\n", curr->data.firstName, curr->data.lastName);
 				return;
 			}
 
@@ -380,8 +404,7 @@ void delete_survey(node** list, int pps) {
 			temp = curr;
 			prev->next = curr->next;
 			free(temp);
-			printf("Deleted %s %s.\n", curr->data.firstName,
-					curr->data.lastName);
+			printf("Deleted %s %s.\n", curr->data.firstName, curr->data.lastName);
 			return;
 		}
 
