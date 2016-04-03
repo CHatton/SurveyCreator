@@ -65,8 +65,6 @@ void main() {
 			print_all_surveys(list, stdout);
 			break;
 		case 3:
-			//printf("Enter PPS: ");
-			//scanf("%d",&searchPps);
 			print_single_survey(list, stdout);
 			break;
 		case 4: // update survey
@@ -223,9 +221,7 @@ void initList(node** list) {
 		add = fgets(add, 40, file); // read remainder of file
 		strtok(add, "\n"); // remove new line char from address
 
-		//	if(add != NULL){
 		strcpy(s.address, add);
-		//}
 		// fill up are values from the file
 		add_in_order(list, s);
 		// add the struct to the list in sorted order

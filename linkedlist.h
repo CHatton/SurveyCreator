@@ -58,7 +58,7 @@ void add_in_order(node** list, survey s) { // maintains sorted list;
 			}
 			prev = curr;
 			curr = curr->next;
-			// keep progressing through thet list
+			// keep progressing through the list
 		}
 		// If we've gotten to end, add it as last
 		prev->next = newNode;
@@ -254,10 +254,12 @@ bool validate_pps(node* list, int pps) {
 }
 
 void update_pps(node* list, survey* s) {
+	int newPps;
 	do {
 		printf("Enter unique PPS number: "); // validate
-		scanf("%d", &s->pps);
-	} while (!validate_pps(list, s->pps));
+		scanf("%d", &newPps);
+	} while (!validate_pps(list, newPps));
+	s->pps = newPps;
 	// keep prompting for pps until they enter a valid value
 	//return s;
 }

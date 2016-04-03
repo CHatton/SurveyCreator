@@ -1,3 +1,9 @@
+/*
+ * I take no credit for this header file
+ * I got it online to get the functionality
+ * of taking in a character without echoing
+ */
+
 #include <termios.h>
 #include <unistd.h>
 #include <stdio.h>

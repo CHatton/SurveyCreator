@@ -65,7 +65,7 @@ float track_stat(node* list, int bracketType, int bracket, int category, int fro
 					break;
 				}
 			}
-		} else if (bracketType == GENDER) { // bracketType == GENDER
+		} else if (bracketType == GENDER) {
 			if (s.gender == bracket) {
 				surveysInBracket++;
 				switch (category) {
@@ -102,23 +102,35 @@ float track_stat(node* list, int bracketType, int bracket, int category, int fro
 
 // 5 different categories
 /*
- # define EIGHTEEN_TO_TWENTY 1
- # define TWENTY_TO_THIRTY 2
- # define THIRTY_TO_FIFTY 3
- # define FIFTY_TO_SIXTYFIVE 4
- # define SIXTYFIVE_PLUS 5
+  EIGHTEEN_TO_TWENTY 1
+  TWENTY_TO_THIRTY 2
+  THIRTY_TO_FIFTY 3
+  FIFTY_TO_SIXTYFIVE 4
+  SIXTYFIVE_PLUS 5
  */
 
 void print_stats(node* list, FILE* file) {
 
-	char ageBrackets[5][10] = { { "18 - 20" }, { "20 - 30" }, { "30 - 50" }, { "50 - 65" }, {
-			"65 + " } };
-	char incBrackets[7][25] = { { "No Income" }, { "Less Than €20,000" }, { "Less Than €40,000" }, {
-			"Less Than €60,000" }, { "Less Than €80,000" }, { "Less Than €100,000" }, {
-			"More Than €100,000" } };
+	char ageBrackets[5][10] =
+	{{ "18 - 20" },
+	{ "20 - 30" },
+	{ "30 - 50" },
+	{ "50 - 65" },
+	{ "65 + " }};
+	char incBrackets[7][25] =
+	{{ "No Income" },
+	{ "Less Than €20,000" },
+	{ "Less Than €40,000" },
+	{ "Less Than €60,000" },
+	{ "Less Than €80,000" },
+	{ "Less Than €100,000" },
+	{ "More Than €100,000" }};
 
-	char genderBrackets[2][10] = { { "Male" }, { "Female" } };
-	int i;
+	char genderBrackets[2][10] =
+	{{ "Male" },
+	{ "Female" }};
+
+	int i; // counter
 
 // print based on age bracket
 	for (i = 1; i <= 5; i++) { // 5 age brackets

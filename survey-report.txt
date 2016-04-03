@@ -604,12 +604,11 @@ Cigarettes per week: More than 40
 
 =============== Age Bracket: 18 - 20 ===============
 People Who Smoke: 75.00%
-People Who Smoke: 75.00%
-People Who Smoke Less Than 20 A Day: 62.00%
+People Who Smoke Less Than 20 A Day: 62.50%
 People Who Smoke Less Than 40 A Day: 75.00%
 People Who Smoke More Than 40 A Day: 25.00%
-People Who Never Exercise: 37.00%
-People Who Exercise Less Than Three Times Per Week: 37.00%
+People Who Never Exercise: 37.50%
+People Who Exercise Less Than Three Times Per Week: 37.50%
 People Who Exercise Less Than Five Times Per Week: 50.00%
 People Who Exercise More Than Five Times Per Week: 50.00%
 People Who Do Not Consume Alcohol: 0.00%
@@ -618,52 +617,48 @@ People Who Consume Less Than 4 Units: 50.00%
 People Who Consume More Than 4 Units: 50.00%
 
 =============== Age Bracket: 20 - 30 ===============
-People Who Smoke: 62.00%
-People Who Smoke: 62.00%
+People Who Smoke: 62.50%
 People Who Smoke Less Than 20 A Day: 75.00%
-People Who Smoke Less Than 40 A Day: 87.00%
-People Who Smoke More Than 40 A Day: 12.00%
-People Who Never Exercise: 12.00%
-People Who Exercise Less Than Three Times Per Week: 62.00%
-People Who Exercise Less Than Five Times Per Week: 87.00%
-People Who Exercise More Than Five Times Per Week: 12.00%
-People Who Do Not Consume Alcohol: 37.00%
-People Who Consume Less Than 2 Units: 62.00%
-People Who Consume Less Than 4 Units: 87.00%
-People Who Consume More Than 4 Units: 12.00%
+People Who Smoke Less Than 40 A Day: 87.50%
+People Who Smoke More Than 40 A Day: 12.50%
+People Who Never Exercise: 12.50%
+People Who Exercise Less Than Three Times Per Week: 62.50%
+People Who Exercise Less Than Five Times Per Week: 87.50%
+People Who Exercise More Than Five Times Per Week: 12.50%
+People Who Do Not Consume Alcohol: 37.50%
+People Who Consume Less Than 2 Units: 62.50%
+People Who Consume Less Than 4 Units: 87.50%
+People Who Consume More Than 4 Units: 12.50%
 
 =============== Age Bracket: 30 - 50 ===============
-People Who Smoke: 91.00%
-People Who Smoke: 91.00%
+People Who Smoke: 91.67%
 People Who Smoke Less Than 20 A Day: 25.00%
 People Who Smoke Less Than 40 A Day: 75.00%
 People Who Smoke More Than 40 A Day: 25.00%
-People Who Never Exercise: 33.00%
-People Who Exercise Less Than Three Times Per Week: 58.00%
-People Who Exercise Less Than Five Times Per Week: 91.00%
-People Who Exercise More Than Five Times Per Week: 8.00%
+People Who Never Exercise: 33.33%
+People Who Exercise Less Than Three Times Per Week: 58.33%
+People Who Exercise Less Than Five Times Per Week: 91.67%
+People Who Exercise More Than Five Times Per Week: 8.33%
 People Who Do Not Consume Alcohol: 25.00%
-People Who Consume Less Than 2 Units: 41.00%
-People Who Consume Less Than 4 Units: 83.00%
-People Who Consume More Than 4 Units: 16.00%
+People Who Consume Less Than 2 Units: 41.67%
+People Who Consume Less Than 4 Units: 83.33%
+People Who Consume More Than 4 Units: 16.67%
 
 =============== Age Bracket: 50 - 65 ===============
-People Who Smoke: 64.00%
-People Who Smoke: 64.00%
-People Who Smoke Less Than 20 A Day: 64.00%
-People Who Smoke Less Than 40 A Day: 85.00%
-People Who Smoke More Than 40 A Day: 14.00%
-People Who Never Exercise: 7.00%
-People Who Exercise Less Than Three Times Per Week: 28.00%
-People Who Exercise Less Than Five Times Per Week: 64.00%
-People Who Exercise More Than Five Times Per Week: 35.00%
-People Who Do Not Consume Alcohol: 21.00%
-People Who Consume Less Than 2 Units: 57.00%
-People Who Consume Less Than 4 Units: 85.00%
-People Who Consume More Than 4 Units: 14.00%
+People Who Smoke: 64.29%
+People Who Smoke Less Than 20 A Day: 64.29%
+People Who Smoke Less Than 40 A Day: 85.71%
+People Who Smoke More Than 40 A Day: 14.29%
+People Who Never Exercise: 7.14%
+People Who Exercise Less Than Three Times Per Week: 28.57%
+People Who Exercise Less Than Five Times Per Week: 64.29%
+People Who Exercise More Than Five Times Per Week: 35.71%
+People Who Do Not Consume Alcohol: 21.43%
+People Who Consume Less Than 2 Units: 57.14%
+People Who Consume Less Than 4 Units: 85.71%
+People Who Consume More Than 4 Units: 14.29%
 
 =============== Age Bracket: 65 +  ===============
-People Who Smoke: 50.00%
 People Who Smoke: 50.00%
 People Who Smoke Less Than 20 A Day: 50.00%
 People Who Smoke Less Than 40 A Day: 100.00%
@@ -672,10 +667,10 @@ People Who Never Exercise: 25.00%
 People Who Exercise Less Than Three Times Per Week: 50.00%
 People Who Exercise Less Than Five Times Per Week: 75.00%
 People Who Exercise More Than Five Times Per Week: 25.00%
-People Who Do Not Consume Alcohol: 12.00%
-People Who Consume Less Than 2 Units: 62.00%
-People Who Consume Less Than 4 Units: 87.00%
-People Who Consume More Than 4 Units: 12.00%
+People Who Do Not Consume Alcohol: 12.50%
+People Who Consume Less Than 2 Units: 62.50%
+People Who Consume Less Than 4 Units: 87.50%
+People Who Consume More Than 4 Units: 12.50%
 
 =============== Income Bracket: No Income ===============
 People Who Smoke: 0.00%
@@ -692,44 +687,44 @@ People Who Consume Less Than 4 Units: 100.00%
 People Who Consume More Than 4 Units: 0.00%
 
 =============== Income Bracket: Less Than €20,000 ===============
-People Who Smoke: 83.00%
+People Who Smoke: 83.33%
 People Who Smoke Less Than 20 A Day: 50.00%
 People Who Smoke Less Than 40 A Day: 100.00%
 People Who Smoke More Than 40 A Day: 0.00%
-People Who Never Exercise: 16.00%
-People Who Exercise Less Than Three Times Per Week: 16.00%
-People Who Exercise Less Than Five Times Per Week: 66.00%
-People Who Exercise More Than Five Times Per Week: 33.00%
-People Who Do Not Consume Alcohol: 16.00%
-People Who Consume Less Than 2 Units: 33.00%
+People Who Never Exercise: 16.67%
+People Who Exercise Less Than Three Times Per Week: 16.67%
+People Who Exercise Less Than Five Times Per Week: 66.67%
+People Who Exercise More Than Five Times Per Week: 33.33%
+People Who Do Not Consume Alcohol: 16.67%
+People Who Consume Less Than 2 Units: 33.33%
 People Who Consume Less Than 4 Units: 100.00%
 People Who Consume More Than 4 Units: 0.00%
 
 =============== Income Bracket: Less Than €40,000 ===============
-People Who Smoke: 33.00%
-People Who Smoke Less Than 20 A Day: 66.00%
+People Who Smoke: 33.33%
+People Who Smoke Less Than 20 A Day: 66.67%
 People Who Smoke Less Than 40 A Day: 100.00%
 People Who Smoke More Than 40 A Day: 0.00%
-People Who Never Exercise: 33.00%
-People Who Exercise Less Than Three Times Per Week: 66.00%
-People Who Exercise Less Than Five Times Per Week: 77.00%
-People Who Exercise More Than Five Times Per Week: 22.00%
-People Who Do Not Consume Alcohol: 22.00%
-People Who Consume Less Than 2 Units: 55.00%
-People Who Consume Less Than 4 Units: 77.00%
-People Who Consume More Than 4 Units: 22.00%
+People Who Never Exercise: 33.33%
+People Who Exercise Less Than Three Times Per Week: 66.67%
+People Who Exercise Less Than Five Times Per Week: 77.78%
+People Who Exercise More Than Five Times Per Week: 22.22%
+People Who Do Not Consume Alcohol: 22.22%
+People Who Consume Less Than 2 Units: 55.56%
+People Who Consume Less Than 4 Units: 77.78%
+People Who Consume More Than 4 Units: 22.22%
 
 =============== Income Bracket: Less Than €60,000 ===============
 People Who Smoke: 100.00%
 People Who Smoke Less Than 20 A Day: 50.00%
-People Who Smoke Less Than 40 A Day: 83.00%
-People Who Smoke More Than 40 A Day: 16.00%
+People Who Smoke Less Than 40 A Day: 83.33%
+People Who Smoke More Than 40 A Day: 16.67%
 People Who Never Exercise: 50.00%
 People Who Exercise Less Than Three Times Per Week: 100.00%
 People Who Exercise Less Than Five Times Per Week: 100.00%
 People Who Exercise More Than Five Times Per Week: 0.00%
 People Who Do Not Consume Alcohol: 0.00%
-People Who Consume Less Than 2 Units: 16.00%
+People Who Consume Less Than 2 Units: 16.67%
 People Who Consume Less Than 4 Units: 50.00%
 People Who Consume More Than 4 Units: 50.00%
 
@@ -776,30 +771,30 @@ People Who Consume Less Than 4 Units: 90.00%
 People Who Consume More Than 4 Units: 10.00%
 
 =============== Gender: Male ===============
-People Who Smoke: 81.00%
-People Who Smoke Less Than 20 A Day: 45.00%
-People Who Smoke Less Than 40 A Day: 81.00%
-People Who Smoke More Than 40 A Day: 18.00%
-People Who Never Exercise: 22.00%
-People Who Exercise Less Than Three Times Per Week: 54.00%
-People Who Exercise Less Than Five Times Per Week: 81.00%
-People Who Exercise More Than Five Times Per Week: 18.00%
-People Who Do Not Consume Alcohol: 13.00%
-People Who Consume Less Than 2 Units: 59.00%
-People Who Consume Less Than 4 Units: 81.00%
-People Who Consume More Than 4 Units: 18.00%
+People Who Smoke: 81.82%
+People Who Smoke Less Than 20 A Day: 45.45%
+People Who Smoke Less Than 40 A Day: 81.82%
+People Who Smoke More Than 40 A Day: 18.18%
+People Who Never Exercise: 22.73%
+People Who Exercise Less Than Three Times Per Week: 54.55%
+People Who Exercise Less Than Five Times Per Week: 81.82%
+People Who Exercise More Than Five Times Per Week: 18.18%
+People Who Do Not Consume Alcohol: 13.64%
+People Who Consume Less Than 2 Units: 59.09%
+People Who Consume Less Than 4 Units: 81.82%
+People Who Consume More Than 4 Units: 18.18%
 
 =============== Gender: Female ===============
-People Who Smoke: 60.00%
-People Who Smoke Less Than 20 A Day: 60.00%
-People Who Smoke Less Than 40 A Day: 85.00%
-People Who Smoke More Than 40 A Day: 14.00%
-People Who Never Exercise: 21.00%
-People Who Exercise Less Than Three Times Per Week: 39.00%
-People Who Exercise Less Than Five Times Per Week: 67.00%
-People Who Exercise More Than Five Times Per Week: 32.00%
+People Who Smoke: 60.71%
+People Who Smoke Less Than 20 A Day: 60.71%
+People Who Smoke Less Than 40 A Day: 85.71%
+People Who Smoke More Than 40 A Day: 14.29%
+People Who Never Exercise: 21.43%
+People Who Exercise Less Than Three Times Per Week: 39.29%
+People Who Exercise Less Than Five Times Per Week: 67.86%
+People Who Exercise More Than Five Times Per Week: 32.14%
 People Who Do Not Consume Alcohol: 25.00%
-People Who Consume Less Than 2 Units: 42.00%
-People Who Consume Less Than 4 Units: 78.00%
-People Who Consume More Than 4 Units: 21.00%
+People Who Consume Less Than 2 Units: 42.86%
+People Who Consume Less Than 4 Units: 78.57%
+People Who Consume More Than 4 Units: 21.43%
 

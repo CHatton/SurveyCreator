@@ -13,7 +13,7 @@ bool user_is_allowed(char userName[], char password[]) {
 	login users[3];
 	login user;
 
-	loginFile = fopen("./login.dat", "r");
+	loginFile = fopen("login.dat", "r");
 	for (i = 0; i < numUsers; i++) { // 3 admins allowed
 		fscanf(loginFile, "%s %s", validName, validPassword);
 		strcpy(user.userName, validName);
@@ -23,8 +23,7 @@ bool user_is_allowed(char userName[], char password[]) {
 	fclose(loginFile);
 
 	for (i = 0; i < numUsers; i++) {
-		if (strcmp(userName, users[i].userName) == 0
-				&& strcmp(password, users[i].password) == 0) {
+		if (strcmp(userName, users[i].userName) == 0 && strcmp(password, users[i].password) == 0) {
 			return true; // if there is a match in both fields,
 			// then the user is allowed access
 		}
